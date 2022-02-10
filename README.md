@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PCPTheHuman
+- 👀 I’m interested in helping people with my software.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :sparkles:[Twitter](https://twitter.com/PCPTheHuman):sparkles:
